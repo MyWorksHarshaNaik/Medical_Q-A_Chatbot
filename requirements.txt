@@ -1,0 +1,6 @@
+langchain==0.3.17
+langchain_community==0.3.16
+langchain-huggingface==0.1.2
+python-dotenv==1.0.1
+langchain-google-genai==2.0.9
+streamlit==1.36.0
